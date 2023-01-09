@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Folks! Myself Suchismita.<br>I'm a web developer enthusiast who enjoys developing websites and web applications. I enjoy learning about new technologies and keeping up with the ever-changing field of web development. I've worked with a number of programming languages and frameworks, including HTML, CSS, JavaScript, jQuery, NodeJs, ExpressJs, Mongodb, Mongoose, and React. In my spare time, I enjoy working on personal projects and contributing to open source projects to continually improve my skills.
+Hello Folks! Myself Suchismita.<br>I'm a web developement enthusiast who enjoys developing websites and web applications. I enjoy learning about new technologies and keeping up with the ever-changing field of web development. I've worked with a number of programming languages and frameworks, including HTML, CSS, JavaScript, jQuery, NodeJs, ExpressJs, Mongodb, Mongoose, and React. In my spare time, I enjoy working on personal projects and contributing to open source projects to continually improve my skills.
 
 
 ## 🌐 Socials:
